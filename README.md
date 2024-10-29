@@ -9,10 +9,10 @@ In this challenge, we'll dive into a dataset from a fictional e-commerce company
 
 ## Files
 
-| File                                                     | What it's For                         
-|----------------------------------------------------------|------------------------------|
-| `Starter_Code/Resources/Client_Dataset.csv`              | The client dataset           |
-| `Starter_Code/wholesale_data_analysis_starter_code.jsf`  | Jupyter Source File          |
+| File                                                         | What it's For                         
+|--------------------------------------------------------------|------------------------------|
+| `Starter_Code/Resources/Client_Dataset.csv`                  | The client dataset           |
+| `Starter_Code/wholesale_data_analysis_starter_code.ipynb`    | Jupyter Source File          |
 
 
 ## Code of Conduct
