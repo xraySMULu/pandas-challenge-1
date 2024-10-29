@@ -9,13 +9,11 @@ In this challenge, we'll dive into a dataset from a fictional e-commerce company
 
 ## Files
 
-| File                  | What it's for                                                                                                |
-|-----------------------|--------------------------------------------------------------------------------------------------------------|
-| `Accounts.py`         | The Accounts.py file consists of the functions setbalance & setinterest                                      |
-| `cd_account.py`       | The cd_account.py file consists of the functions create_cd_account and update_cd_account                     |
-| `customer_banking.py` | The customer_banking.py file consists of the primary function main. The application starts from main         |
-| `Helper.py`           | The Helper.py file consists of the function calcInterestEarned.                                              |
-| `savings_account.py`  | The savings_account.py file consists of the functions create_savings_account and update_savings_account      |
+| File                                                     | What it's For                         
+|----------------------------------------------------------|------------------------------|
+| `Starter_Code/Resources/Client_Dataset.csv`              | The client dataset           |
+| `Starter_Code/wholesale_data_analysis_starter_code.jsf`  | Jupyter Source File          |
+
 
 ## Code of Conduct
 
