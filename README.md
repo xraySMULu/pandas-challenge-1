@@ -15,6 +15,9 @@ In this challenge, we'll dive into a dataset from a fictional e-commerce company
 | `Starter_Code/wholesale_data_analysis_starter_code.ipynb`    | Jupyter Source File          |
 
 
+## Documentation
+https://pandas.pydata.org/docs/reference/frame.html
+
 ## Code of Conduct
 
 This project has adopted the code of conduct defined by the Contributor Covenant to clarify expected behavior in our community.
